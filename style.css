@@ -15,14 +15,14 @@
     padding: 20px;
 }
 @font-face {
-    font-family: 'VCR OSD Mono';
+    font-family: 'Japanese Brush';
     src: url('font.ttf');
 }
 
 
 
 body {
-    font-family: 'VCR OSD Mono', serif !important; 
+    font-family: 'Japanese Brush', serif !important; 
     color: #ffffff;
     font-style: italic;
     background: black;
